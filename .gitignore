@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+dist/
+build/
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.commandforge.json
